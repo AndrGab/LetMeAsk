@@ -68,8 +68,8 @@ Tecnologias utilizadas:
 
 - Firebase Authetication;
 - Utilização do FireBase RealTime para visualização da perguntas ao vivo
-- Utilização da Biblioteca Sweet Alert com alertas elegantes
-- Criação de Hooks
+- Utilização da Biblioteca Sweet Alert com alertas elegantes;
+- Criação de Hooks;
 - SPA
 - Componentes, Propriedades e Estados
 
