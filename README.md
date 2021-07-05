@@ -56,11 +56,11 @@ Tecnologias utilizadas:
 
 ![image](https://user-images.githubusercontent.com/57791712/124404265-9beabe80-dd10-11eb-98d6-d6b5ddbfc68c.png)
 
-# Painel do Administrador
+## Painel do Administrador
 
 ![image](https://user-images.githubusercontent.com/57791712/124404293-bde44100-dd10-11eb-887a-a4a261826cf7.png)
 
-# Alertas da Biblioteca Sweet Alert
+## Alertas da Biblioteca Sweet Alert
 
 ![image](https://user-images.githubusercontent.com/57791712/124404362-fc79fb80-dd10-11eb-9950-22b359ca2856.png)
 
