@@ -23,17 +23,16 @@ Let Me Ask</h3>
 
 # LetMeAsk - Crie Sala de Q&A ao vivo
 
-![image](https://user-images.githubusercontent.com/57791712/124404110-d30ca000-dd0f-11eb-88a9-9db427ea214e.png)
-
-![image](https://user-images.githubusercontent.com/57791712/124404129-f20b3200-dd0f-11eb-9a5c-bfa4243b85d7.png)
-
 ## Let Me Ask
 
 Crie salas de Q&A ao vivo e responda sua audiência ao vivo.
-
 Esta aplicação foi criada durante a NLW Together realizada pela RocketSeat.
 
 ## Next Level
+
+A pergunta sempre é... Como chegar no próximo nível?
+Para praticar e melhorar minhas skills pessoais, tentei ir mais além.
+As minhas contribuições pessoais para o projeto foram:
 
 - Login obrigatório pelo Google;
 - Definição de Rotas públicas (Tela de Login) e Rotas Privadas (Exigem Login);
@@ -51,6 +50,10 @@ Tecnologias utilizadas:
 - Sweet Alert 2
 
 ## Screenshots
+
+![image](https://user-images.githubusercontent.com/57791712/124404110-d30ca000-dd0f-11eb-88a9-9db427ea214e.png)
+
+![image](https://user-images.githubusercontent.com/57791712/124404129-f20b3200-dd0f-11eb-9a5c-bfa4243b85d7.png)
 
 ![image](https://user-images.githubusercontent.com/57791712/124404164-2252d080-dd10-11eb-8b67-e17aab526799.png)
 
